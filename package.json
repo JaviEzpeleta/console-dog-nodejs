@@ -1,6 +1,6 @@
 {
   "name": "console-dog-nodejs",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "A console.log replacement that adds animal sound effects. Works in nodejs.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
