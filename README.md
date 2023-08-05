@@ -16,10 +16,7 @@ but the truth is that with sounds, you will be aware when and what type of speci
 
 ## Demo Video 🎥
 
-<video width="360" controls>
-  <source src="https://javitoshi.com/videos/console-dog-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[<img src="video-thumbnail.png" alt="Watch the demo" width="320"/>](https://javitoshi.com/videos/console-dog-demo.mp4)
 
 Click on the thumbnail above to watch the video demo of Console Dog in action.
 
